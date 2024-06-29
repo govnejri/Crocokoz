@@ -5,7 +5,7 @@ import os
 import base64
 import face_recognition
 import cv2
-bot_token = '7199170926:AAHHtT3AM4psSIYYyUf_khTTqxBqdEc-7qk'
+bot_token = 'BotToken'
 bot = telebot.TeleBot(bot_token)
 app = Flask(__name__)
 config = {
